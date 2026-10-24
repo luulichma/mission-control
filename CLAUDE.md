@@ -22,6 +22,11 @@ Hướng dẫn cho AI agent (Claude Code và các agent khác) khi làm việc t
 - `.gitignore` là template Python chuẩn của GitHub → dự kiến stack chính là **Python**
   (chưa được xác nhận; chưa có `pyproject.toml`/`requirements.txt`).
 
+## Quyết định đã chốt
+
+- Dùng **Apache DevLake** làm nền tảng, xem `docs/decision-001-devlake-foundation.md`.
+  Đang dùng thử; vấn đề phát sinh ghi vào bảng cuối file đó.
+
 ## Ghi chú cho agent
 
 - Khi thêm code/tooling đầu tiên, cập nhật file này: stack, cấu trúc thư mục,
