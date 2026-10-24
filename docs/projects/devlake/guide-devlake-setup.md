@@ -71,6 +71,10 @@ Mở `docker-compose.yml`:
 
 - **Mật khẩu Grafana:** mặc định là `admin` / `admin`. Đổi ngay sau lần đăng nhập đầu tiên.
 
+> Có thể đặt các tùy chỉnh trên trong `docker-compose.override.yml` thay vì sửa trực tiếp
+> `docker-compose.yml`, để khi nâng cấp không phải chép lại. Xem
+> [Bước 4 của hướng dẫn chung](../../general/guide-docker-compose-setup.md#bước-4-tùy-chỉnh-bằng-docker-composeoverrideyml-khuyến-nghị).
+
 ## Bước 5: Khởi động
 
 ```bash

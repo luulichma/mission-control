@@ -20,7 +20,7 @@ mission-control dùng DevLake làm nền tảng theo dõi tiến độ các repo
 
 Làm theo thứ tự:
 
-1. [Cài Docker và Docker Compose](../../general/guide-docker-compose-setup.md) (hướng dẫn chung)
+1. [Cài Docker và setup Docker Compose](../../general/guide-docker-compose-setup.md) (hướng dẫn chung)
 2. [guide-devlake-setup.md](guide-devlake-setup.md): cài và chạy DevLake
 3. [guide-github-connection.md](guide-github-connection.md): kết nối GitHub và thu thập dữ liệu các repo
 

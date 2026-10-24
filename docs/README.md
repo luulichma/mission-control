@@ -13,7 +13,7 @@ mission-control là trung tâm quản lý chung cho mọi dự án. Tài liệu 
 | File | Nội dung |
 |---|---|
 | [ADR-001-devlake-as-foundation.md](general/ADR-001-devlake-as-foundation.md) | **Quyết định nền tảng:** dùng Apache DevLake làm nền |
-| [guide-docker-compose-setup.md](general/guide-docker-compose-setup.md) | Cài Docker và Docker Compose |
+| [guide-docker-compose-setup.md](general/guide-docker-compose-setup.md) | Cài Docker/Docker Compose (Windows, macOS, Linux) và setup file compose cho một dự án |
 
 ### Dự án (`projects/`)
 
