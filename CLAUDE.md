@@ -24,8 +24,14 @@ Hướng dẫn cho AI agent (Claude Code và các agent khác) khi làm việc t
 
 ## Quyết định đã chốt
 
-- Dùng **Apache DevLake** làm nền tảng, xem `docs/decision-001-devlake-foundation.md`.
+- Dùng **Apache DevLake** làm nền tảng, xem `docs/general/ADR-001-devlake-as-foundation.md`.
   Đang dùng thử; vấn đề phát sinh ghi vào bảng cuối file đó.
+
+## Tài liệu
+
+- Toàn bộ tài liệu nằm trong `docs/`: `general/` (chung) và `projects/<tên-dự-án>/` (riêng từng dự án).
+- **Tuân thủ quy chuẩn đặt tên trong `docs/README.md`** (tiền tố `ADR-NNN-`, `guide-`, `runbook-`, `ref-`;
+  tên file tiếng Anh, kebab-case) và cập nhật mục lục khi thêm hoặc đổi tên file.
 
 ## Ghi chú cho agent
 
